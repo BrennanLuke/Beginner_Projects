@@ -15,7 +15,6 @@ else:
     print('Please type a number next time.')
     quit()
 
-
 random_number = random.randint(0, top_of_range)  # Generates a random number over 0 and at or under user's submission
                                                     ## r = random.randint(-5, 12)  # random number from x, to x.  ##
 running = True  # Running Flag
