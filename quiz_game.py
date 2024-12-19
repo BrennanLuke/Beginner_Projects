@@ -61,4 +61,3 @@ while running:  # Loop allowing replay
 
     # Final Scores
     print("You answered " + str(score) + " correct questions")
-    print
